@@ -2,6 +2,13 @@
 
 資料庫系統學習與期末上機考練習資料。
 
+## MariaDB 期末上機六題
+
+- [線上預覽：MariaDB 期末上機六題詳解](mariadb-finalexam-6q/)
+- [Word 下載版](mariadb-finalexam-6q/mariadb-finalexam-6q-guide.docx)
+- [PDF 下載版](mariadb-finalexam-6q/mariadb-finalexam-6q-guide.pdf)
+- [整包 ZIP 下載](mariadb-finalexam-6q/mariadb-finalexam-6q-download.zip)
+
 ## 期末上機考資料
 
 本 repo 目前整理了 MariaDB 與 MongoDB 期末上機考的兩份版本：

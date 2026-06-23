@@ -9,6 +9,7 @@
 - [線上預覽：16 題原題簡化版與語法總整理](final-exam/final-exam-16q-simple.md)
 - [線上預覽：16 題完整詳解與指令流程](final-exam/final-exam-16q-detailed.md)
 - [MariaDB 啟動教學](final-exam/mariadb-startup.md)
+- [完整 outputs 資料夾](outputs/)
 
 Word 下載版：
 

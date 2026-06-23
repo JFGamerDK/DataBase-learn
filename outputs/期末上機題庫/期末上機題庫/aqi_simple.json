@@ -1,0 +1,512 @@
+[
+  {
+    "SiteName": "基隆",
+    "County": "基隆市",
+    "AQI": "41",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "汐止",
+    "County": "新北市",
+    "AQI": "51",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "萬里",
+    "County": "新北市",
+    "AQI": "37",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "新店",
+    "County": "新北市",
+    "AQI": "57",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "土城",
+    "County": "新北市",
+    "AQI": "63",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "板橋",
+    "County": "新北市",
+    "AQI": "48",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "新莊",
+    "County": "新北市",
+    "AQI": "53",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "菜寮",
+    "County": "新北市",
+    "AQI": "49",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "林口",
+    "County": "新北市",
+    "AQI": "45",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "淡水",
+    "County": "新北市",
+    "AQI": "33",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "士林",
+    "County": "臺北市",
+    "AQI": "49",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "中山",
+    "County": "臺北市",
+    "AQI": "53",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "萬華",
+    "County": "臺北市",
+    "AQI": "55",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "古亭",
+    "County": "臺北市",
+    "AQI": "49",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "松山",
+    "County": "臺北市",
+    "AQI": "53",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "大同",
+    "County": "臺北市",
+    "AQI": "60",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "桃園",
+    "County": "桃園市",
+    "AQI": "48",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "大園",
+    "County": "桃園市",
+    "AQI": "26",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "觀音",
+    "County": "桃園市",
+    "AQI": "28",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "平鎮",
+    "County": "桃園市",
+    "AQI": "45",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "龍潭",
+    "County": "桃園市",
+    "AQI": "44",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "湖口",
+    "County": "新竹縣",
+    "AQI": "35",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "竹東",
+    "County": "新竹縣",
+    "AQI": "47",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "新竹",
+    "County": "新竹市",
+    "AQI": "50",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "頭份",
+    "County": "苗栗縣",
+    "AQI": "38",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "苗栗",
+    "County": "苗栗縣",
+    "AQI": "46",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "三義",
+    "County": "苗栗縣",
+    "AQI": "40",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "豐原",
+    "County": "臺中市",
+    "AQI": "36",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "沙鹿",
+    "County": "臺中市",
+    "AQI": "30",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "大里",
+    "County": "臺中市",
+    "AQI": "47",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "忠明",
+    "County": "臺中市",
+    "AQI": "33",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "西屯",
+    "County": "臺中市",
+    "AQI": "47",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "彰化",
+    "County": "彰化縣",
+    "AQI": "31",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "線西",
+    "County": "彰化縣",
+    "AQI": "36",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "二林",
+    "County": "彰化縣",
+    "AQI": "44",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "南投",
+    "County": "南投縣",
+    "AQI": "31",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "斗六",
+    "County": "雲林縣",
+    "AQI": "30",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "崙背",
+    "County": "雲林縣",
+    "AQI": "30",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "新港",
+    "County": "嘉義縣",
+    "AQI": "44",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "朴子",
+    "County": "嘉義縣",
+    "AQI": "33",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "臺西",
+    "County": "雲林縣",
+    "AQI": "20",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "嘉義",
+    "County": "嘉義市",
+    "AQI": "32",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "新營",
+    "County": "臺南市",
+    "AQI": "25",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "善化",
+    "County": "臺南市",
+    "AQI": "40",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "安南",
+    "County": "臺南市",
+    "AQI": "36",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "臺南",
+    "County": "臺南市",
+    "AQI": "26",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "美濃",
+    "County": "高雄市",
+    "AQI": "27",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "橋頭",
+    "County": "高雄市",
+    "AQI": "44",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "仁武",
+    "County": "高雄市",
+    "AQI": "34",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "鳳山",
+    "County": "高雄市",
+    "AQI": "33",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "大寮",
+    "County": "高雄市",
+    "AQI": "44",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "林園",
+    "County": "高雄市",
+    "AQI": "40",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "楠梓",
+    "County": "高雄市",
+    "AQI": "30",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "左營",
+    "County": "高雄市",
+    "AQI": "42",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "前金",
+    "County": "高雄市",
+    "AQI": "23",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "前鎮",
+    "County": "高雄市",
+    "AQI": "41",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "小港",
+    "County": "高雄市",
+    "AQI": "37",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "屏東",
+    "County": "屏東縣",
+    "AQI": "34",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "潮州",
+    "County": "屏東縣",
+    "AQI": "33",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "恆春",
+    "County": "屏東縣",
+    "AQI": "27",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "臺東",
+    "County": "臺東縣",
+    "AQI": "18",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "花蓮",
+    "County": "花蓮縣",
+    "AQI": "34",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "陽明",
+    "County": "臺北市",
+    "AQI": "32",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "宜蘭",
+    "County": "宜蘭縣",
+    "AQI": "39",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "冬山",
+    "County": "宜蘭縣",
+    "AQI": "39",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "三重",
+    "County": "新北市",
+    "AQI": "57",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "中壢",
+    "County": "桃園市",
+    "AQI": "53",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "竹山",
+    "County": "南投縣",
+    "AQI": "42",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "永和",
+    "County": "新北市",
+    "AQI": "44",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "復興",
+    "County": "高雄市",
+    "AQI": "38",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "埔里",
+    "County": "南投縣",
+    "AQI": "42",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "馬祖",
+    "County": "連江縣",
+    "AQI": "66",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "金門",
+    "County": "金門縣",
+    "AQI": "92",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "馬公",
+    "County": "澎湖縣",
+    "AQI": "32",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "關山",
+    "County": "臺東縣",
+    "AQI": "25",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "麥寮",
+    "County": "雲林縣",
+    "AQI": "21",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "富貴角",
+    "County": "新北市",
+    "AQI": "32",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "大城",
+    "County": "彰化縣",
+    "AQI": "21",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "彰化（員林）",
+    "County": "彰化縣",
+    "AQI": "40",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "高雄（湖內）",
+    "County": "高雄市",
+    "AQI": "21",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "臺南（麻豆）",
+    "County": "臺南市",
+    "AQI": "33",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "屏東（琉球）",
+    "County": "屏東縣",
+    "AQI": "29",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "新北(樹林)",
+    "County": "新北市",
+    "AQI": "57",
+    "Status": "普通"
+  },
+  {
+    "SiteName": "大甲（日南國小）",
+    "County": "臺中市",
+    "AQI": "35",
+    "Status": "良好"
+  },
+  {
+    "SiteName": "屏東(枋山)",
+    "County": "屏東縣",
+    "AQI": "27",
+    "Status": "良好"
+  }
+]
